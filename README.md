@@ -1,6 +1,6 @@
 # Sinatra Test API – Exercise repository
 
-This is an API example running with sinatra and basic authentication, for exercise purpose.
+This is an client API running with sinatra and uses rest-client.
 
 ## API Doc
 
